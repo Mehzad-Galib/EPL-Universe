@@ -1,0 +1,45 @@
+.detail {
+  width: 1170px;
+  height: 284px;
+  background-color: #3a42ff;
+  border-radius: 15px;
+  display: flex;
+  
+}
+
+.clubDetail {
+  width: 337px;
+  height: 211px;
+  text-align: left;
+  color: whitesmoke;
+  margin-left: 30px;
+  padding: 10px;
+}
+
+.clubPic img {
+  width: 442px;
+  height: 257px;
+  border-radius: 15px;
+  padding: 10px;
+  margin-left: 300px;
+}
+
+.description {
+  color: whitesmoke;
+}
+
+.logo {
+  width: 235.62px;
+  height: 65px;
+  left: 602px;
+  top: 1115px;
+}
+
+.image img{
+  position: relative;
+  width: 1440px;
+  height: 362px;
+  left: 0px;
+  top: 0px;
+  background: rgba(0, 0, 0, 0.5);
+}
