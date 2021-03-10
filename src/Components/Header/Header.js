@@ -2,7 +2,7 @@ import React from 'react';
 import './Header.css';
 const Header = () => {
     return (
-        <div className='image'>
+        <div className='imageCover'>
              
             <img src={`https://i.ibb.co/Qp46qgM/Cover.jpg`} alt=""/>
         </div>

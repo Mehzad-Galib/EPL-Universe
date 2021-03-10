@@ -4,7 +4,6 @@
   background-color: #3a42ff;
   border-radius: 15px;
   display: flex;
-  
 }
 
 .clubDetail {
@@ -33,13 +32,29 @@
   height: 65px;
   left: 602px;
   top: 1115px;
+  display: flex;
+  margin-left: 500px;
 }
 
-.image img{
-  position: relative;
-  width: 1440px;
+.image img {
+  position: absolute;
+  height: 180px;
+  width: 180px;
+  left: 600px;
+  top: 170px;
+  border-radius: 0px;
+}
+.singleLogo {
+  margin-left: 20px;
+  margin-right: 25px;
+}
+.imageCover img {
   height: 362px;
+  width: 100%;
+  border-radius: 0px;
   left: 0px;
   top: 0px;
-  background: rgba(0, 0, 0, 0.5);
+  margin: 0;
+  padding: 0;
+  background: rgba(0, 0, 0, 0.2);
 }
