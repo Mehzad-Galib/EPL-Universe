@@ -11,7 +11,7 @@ const Team = (props) => {
 
   return (
     
-      <div className="col-md-3 my-3 mx-3">
+      <div className="col-lg-3 col-sm-12 my-3 mx-3">
         <Card style={{ width: "18rem" }}>
           <Card.Img variant="top" src={strTeamBadge} />
           <Card.Body className="text-center">
